@@ -3,6 +3,7 @@ clear all;
 close all;
 prompt = '请输入判断矩阵 ';
 A = input(prompt);
+
 % A=[1 1 4 7
 %    1 1 7 7
 %    1/4 1/7 1 4
